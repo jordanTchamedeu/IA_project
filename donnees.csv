@@ -1,0 +1,5 @@
+IA1,IA2,Taille_Plateau,Winrate
+Random,MiniMax,3,0.3
+Random,MiniMaxalphabeta,3,0.4
+MiniMax,MiniMaxalphabeta,3,0.6
+MiniMaxalphabeta2,MiniMaxalphabeta,3,0.6
